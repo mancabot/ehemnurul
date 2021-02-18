@@ -40,7 +40,7 @@ Follow The Steps Below!
 (after that tap on permission)
 > apt install git -y
 > git clone https://github.com/mancabot/ehemnurul
-> cd botwea
+> cd ehemnurul
 > bash install.sh
 
 
