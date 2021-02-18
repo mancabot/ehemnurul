@@ -4,7 +4,7 @@
 
 * [Saweria](https://saweria.co/nurulbot)
 
-#Gopay/Pulsa/Dana:0838-1595-6151
+#AXIS:0838-1595-6151
 
 ## Tools
 
